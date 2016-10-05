@@ -50,6 +50,8 @@ pull.php
 nico.txt
 dev.txt
 
+.idea/
+
 
 # IMPORT FROM https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
 
